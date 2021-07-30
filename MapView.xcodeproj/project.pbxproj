@@ -13,6 +13,7 @@
 		C1C11ACF26B3D82B005EB34C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1C11ACD26B3D82B005EB34C /* Main.storyboard */; };
 		C1C11AD126B3D830005EB34C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1C11AD026B3D830005EB34C /* Assets.xcassets */; };
 		C1C11AD426B3D830005EB34C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1C11AD226B3D830005EB34C /* LaunchScreen.storyboard */; };
+		C1C11ADC26B3D843005EB34C /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1C11ADB26B3D843005EB34C /* MapViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		C1C11AD026B3D830005EB34C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1C11AD326B3D830005EB34C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C1C11AD526B3D830005EB34C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1C11ADB26B3D843005EB34C /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MapViewController.swift; path = ../../MapViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				C1C11AC726B3D82B005EB34C /* AppDelegate.swift */,
 				C1C11AC926B3D82B005EB34C /* SceneDelegate.swift */,
 				C1C11ACB26B3D82B005EB34C /* ViewController.swift */,
+				C1C11ADB26B3D843005EB34C /* MapViewController.swift */,
 				C1C11ACD26B3D82B005EB34C /* Main.storyboard */,
 				C1C11AD026B3D830005EB34C /* Assets.xcassets */,
 				C1C11AD226B3D830005EB34C /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 				C1C11ACC26B3D82B005EB34C /* ViewController.swift in Sources */,
 				C1C11AC826B3D82B005EB34C /* AppDelegate.swift in Sources */,
 				C1C11ACA26B3D82B005EB34C /* SceneDelegate.swift in Sources */,
+				C1C11ADC26B3D843005EB34C /* MapViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
